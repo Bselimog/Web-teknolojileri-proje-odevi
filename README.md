@@ -7,7 +7,7 @@ Derste öğrenilen bilgileri (HTML, CSS, Javascript vb.) Sayfasında bir web sit
 •	İçeren Boostrap Duyarlı sağlayan Özellikler kullanılacak.<br/>
 •	Login, Hakkında , Özgeçmiş , ŞehirBilgisi , Mirasımız , İletişim sayfasında bulunacak.<br/>
 •	Kullanıcıya ilk görünen  kısım Login, Şehir Bilgisi, Mirasımız ve Küçük bir iletişim bölümü olacaktır. Login olduktan itibaren Özgeçmiş, Hakkında ve İletişim Sayfaları ayrıntılı bir şekilde görebilirsiniz.<br/>
-•	Proje  NOTEPAD++ ile yazılacak, ve içinde proje ilerledikçe otomatik githuba commitleme işlemi yapılacaktır.<br/>
+•	Proje  VİSUAL STUDİO CODE ile yazılacak, ve içinde proje ilerledikçe otomatik githuba commitleme işlemi yapılacaktırk.<br/>
 •	Şehir Bilgisi içinde Şehrin nufusu, yerler yerler, vb ... gibi bilgiler ve slider bulunmaktadır .<br/>
 •	Mirasımız Kısmında şehrin kültürel ve doğal mirasları, şehir takımları, spor aktivteleri ve başarıları, insan ve ekonomik yapılarda bulunacaktır.<br/>
 ## PROJE GELİŞİMİ
